@@ -14,7 +14,7 @@ void peek();
 void display();
 void main ()  
 {  
-    printf("\tStack operations using array\n");
+    printf("\tStack operations using linked list\n");
     printf("\nEnter capacity of the stack:");   
     scanf("%d",&n);   
     printf("\n********************************************************\n");  
